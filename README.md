@@ -36,5 +36,5 @@ Bienvenue sur **Insta Open Source** – une plateforme libre et communautaire po
 Clone le projet :
 
 ```bash
-git clone https://github.com/kiliandiama/
+git clone https://github.com/kiliandiama/R-seauSocial/
 
