@@ -36,6 +36,5 @@ Bienvenue sur **Insta Open Source** – une plateforme libre et communautaire po
 Clone le projet :
 
 ```bash
-git clone https://github.com/kiliandiama/insta-open.git
-cd insta-open
+git clone https://github.com/kiliandiama/
 
